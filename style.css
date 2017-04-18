@@ -1,7 +1,21 @@
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color: #CC5500;
+	font-family: "Lucida Console";
 h2 {
 	color: yellow;
 }
 body {
-	background-image: url("http://www.digitaljournal.com/img/8/4/3/0/8/3/i/2/1/6/o/site-8.JPG");
-
+	background-image: url('http://www.digitaljournal.com/img/8/4/3/0/8/3/i/2/1/6/o/site-8.JPG');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.footer {
+  padding: 20px;
+  padding-bottom: 50px;
+}
+.footer-content {
+	  padding: 20px;
+	  padding-bottom: 50px;
 }
