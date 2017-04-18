@@ -3,7 +3,8 @@ h1 {
 	font-weight: bold;
 	color: #CC5500;
 	font-family: "Lucida Console";
-h2 { 
+h2 {
+	color: yellow;
 }
 body {
 	background-image: url('http://www.digitaljournal.com/img/8/4/3/0/8/3/i/2/1/6/o/site-8.JPG');
