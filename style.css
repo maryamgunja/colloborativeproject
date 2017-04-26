@@ -11,13 +11,18 @@ h2 {
 	color: yellow;
 	margin-top: 100px;
 }
-body {
+body,html {
 
 	background-image: url('http://az616578.vo.msecnd.net/files/2016/03/11/635932734909157496651194192_nyc-letters.jpg');
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 110%;
-	margin-top: 70px;
+	height: 100%; 
+	/*background-repeat: repeat;*/
+	/*background-position: center;*/
+	/*background-size: 110%;*/
+	background-size: cover;
+	/*margin-top: 70px;*/
+	overflow-y: scroll; 
+
 
 }
 
@@ -41,7 +46,8 @@ ul.nav a {
 
 div.jumbotron {
 	padding: 10px;
-	height: 600px;
+	/*height: 600px;*/
+	height: auto;
 	width: 80%;
 	margin: 5% 10% 5% 10%;
 	background-color: rgba(0, 0, 0, 0.8);
@@ -185,6 +191,12 @@ button.fa {
 	background-color: #A1755C;
 	color: white;
 }
+/*Blog/News CSS*/
 
-
+.media-left{
+	margin-bottom: 20px;
+}*/
+.media-body{
+	margin-left: 5px;
+}
 
