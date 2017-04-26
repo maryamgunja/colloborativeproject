@@ -200,3 +200,14 @@ button.fa {
 	margin-left: 5px;
 }
 
+
+img.media-object {
+	width: 200px;
+	height: 200px;
+}
+
+div.media {
+	padding-bottom: 5px;
+	border-bottom: 2px solid white;
+}
+
