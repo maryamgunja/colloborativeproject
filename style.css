@@ -11,7 +11,8 @@ h2 {
 	color: yellow;
 	margin-top: 100px;
 }
-body {
+
+body,html {
 
 	background-image: url('http://az616578.vo.msecnd.net/files/2016/03/11/635932734909157496651194192_nyc-letters.jpg');
 	background-repeat: no-repeat;
